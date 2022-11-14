@@ -1,0 +1,65 @@
+.fcontainer {
+    
+}
+
+.navbar-brand {
+    color: greenyellow;
+    font-size: 35px;
+    text-shadow: 2px 2px 5px blue;
+    font-family: cursive;
+}
+.navbar-brand:hover {
+    transform: scale(1.2);
+    color: greenyellow;
+    text-shadow: 2px 2px 5px blue;
+    font-family: cursive;
+}
+
+.nav-item {
+    padding-left: 20px;
+}
+
+.nav-link {
+    color: gold;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.nav-link:hover {
+    color: goldenrod;
+    text-decoration: overline;
+}
+
+.home{
+    text-decoration: overline;
+}
+
+/* jumbotron */
+.jumbotron {
+    height: 640px;
+    margin-top: -75px;
+    background-image: url('freepik.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.display-4 {
+    color: wheat;
+    text-align: center;
+    padding-top: 150px;
+}
+.display-5 {
+    font-size: 100px;
+    text-align: center;
+}
+
+.lead {
+    color: wheat;
+    font-size: 50px;
+    text-align: center;
+}
+
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;..");
+  }
